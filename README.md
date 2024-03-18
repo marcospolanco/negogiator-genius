@@ -3,8 +3,7 @@
 ## Overview
 Negotiator Genius is an innovative project developed for the genAI Hackathon. It's a chatbot designed to facilitate negotiations between organizations and their vendors or customers. The chatbot is capable of negotiating on behalf of the organization using cutting-edge technologies such as LangChain, Gradio, and GPT-4 Turbo as a Large Language Model (LLM).
 
-<video src='https://www.youtube.com/watch?v=E8TEpTATmII' width=180/>
-  
+
 ## Key Features
 - **Automated Negotiations:** Negotiator Genius automates the negotiation process, reducing the need for manual intervention.
 - **Integration with LangChain:** LangChain technology enables the chatbot to understand and respond to negotiation scenarios effectively.
